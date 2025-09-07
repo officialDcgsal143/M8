@@ -9,4 +9,4 @@ M8 is raw Python chaos. Pros know what to do.
 Run at your own risk. Trillion errors guaranteed if you guess wrong.  
 
 **Download:**  
-[Click here to download M8.zip](./m8.py)
+[Click here to download M8.py interpreter engine](./m8.py)
